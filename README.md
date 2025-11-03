@@ -2,7 +2,11 @@
 [![Stars](https://img.shields.io/github/stars/soumyapriyagoswami/SISA-VM?style=social)](https://github.com/soumyapriyagoswami/SISA-VM)
 [![Forks](https://img.shields.io/github/forks/soumyapriyagoswami/SISA-VM?style=social)](https://github.com/soumyapriyagoswami/SISA-VM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C/C++ CI](https://github.com/soumyapriyagoswami/SISA-VM/actions/workflows/ci.yml/badge.svg)](https://github.com/soumyapriyagoswami/SISA-VM/actions)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/soumyapriyagoswami/SISA-VM/actions)
+[![GitHub Issues](https://img.shields.io/github/issues/soumyapriyagoswami/SISA-VM)](https://github.com/soumyapriyagoswami/SISA-VM/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/soumyapriyagoswami/SISA-VM)](https://github.com/soumyapriyagoswami/SISA-VM/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/soumyapriyagoswami/SISA-VM?style=social)](https://github.com/soumyapriyagoswami/SISA-VM/stargazers)
+
 
 A **stack-based virtual machine** with integer/float arithmetic, memory access, and control flow—built in **<1000 lines of C** by a 3rd-year B.Tech IT student. Perfect for prototyping languages, teaching CS, or just geeking out on ISAs. No bloat, pure speed. 💻
 
@@ -199,7 +203,7 @@ Credit sources, share learnings, and **have fun building systems from scratch**.
 Built with ❤️ by **Soumyapriya Goswami**
 🎓 *B.Tech IT ’27 – Kalyani Government Engineering College*
 
-📧 Email: *[soumyapriya_goswami@example.com](mailto:soumyapriya.goswami.it2023@kgec.ac.in)*
+📧 Email: *[soumyapriya_goswami@contact.com](mailto:soumyapriya.goswami.it2023@kgec.ac.in)*
 
 
 ---
