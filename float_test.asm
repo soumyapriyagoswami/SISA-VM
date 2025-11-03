@@ -1,0 +1,13 @@
+PUSH 3.5
+PUSHF 1.2
+SUBF
+PUSHF 2.3
+CMP
+JG yes
+PUSH 0
+JMP done
+yes:
+PUSH 1
+done:
+PRINT
+HALT
