@@ -41,7 +41,7 @@ A **stack-based virtual machine** with integer/float arithmetic, memory access, 
 
 <details>
 <summary><b>factorial.asm</b> – Recursive `fact(5) → 120`</summary>
-
+</details>
 ```asm
 PUSH 5
 CALL fact
